@@ -1,0 +1,24 @@
+/**** Encabezado ****/
+.encabezado {
+    margin: 0;
+    padding: 0;
+}
+.tamanioSlider {
+    height:700px;
+}
+
+/** PIÉ DE PÁGINA **/
+.prefooter{
+    height: 200px;
+    background-color:Silver ;  
+}
+.menuFoot{
+    list-style: none;
+}
+    .menuFoot a {
+        color:DimGray;
+    }
+.footer{
+    background-color:#f4a285;
+}
+
